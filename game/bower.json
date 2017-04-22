@@ -1,0 +1,24 @@
+{
+  "name": "edidon",
+  "description": "0.0.1",
+  "main": "main.js",
+  "authors": [
+    "toppin11"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs": "^4.1.0",
+    "EaselJS": "https://github.com/CreateJS/EaselJS.git#^0.8.2",
+    "TweenJS": "https://github.com/CreateJS/TweenJS.git#^0.6.2",
+    "PreloadJS": "https://github.com/CreateJS/PreloadJS.git#^0.6.2",
+    "SoundJS": "https://github.com/CreateJS/SoundJS.git#^0.6.2"
+  }
+}
